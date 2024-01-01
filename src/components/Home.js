@@ -8,6 +8,7 @@ import I200 from "../images/I200.jpg";
 import I500 from "../images/I500.jpg";
 import I1000 from "../images/I1000.jpg";
 import I2000 from "../images/I2000.jpg";
+import Navbar from './Navbar';
 function Home() {
     const [five, setfive] = useState(0);
     const [ten, setten] = useState(0);
@@ -66,6 +67,7 @@ function Home() {
     }
   return (
     <div>
+        <Navbar />
         <div className='accounting-container'>
             <form className='coins-form'>
                 <div className='coins-container'>

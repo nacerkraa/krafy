@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/krafy/static/css/main.2ef0466e.css",
+    "main.js": "/krafy/static/js/main.92b07f8b.js",
+    "static/media/I1000.jpg": "/krafy/static/media/I1000.9499b057e10fcef3ec42.jpg",
+    "static/media/I2000.jpg": "/krafy/static/media/I2000.d3fae6dc55c521d6709b.jpg",
+    "static/media/I100.jpg": "/krafy/static/media/I100.b7dde43d2394290e7043.jpg",
+    "static/media/I500.jpg": "/krafy/static/media/I500.dbfc9d73a32fecb85d7a.jpg",
+    "static/media/I200.jpg": "/krafy/static/media/I200.745c6a16d9e295bde600.jpg",
+    "static/media/I10.png": "/krafy/static/media/I10.bdb5390c9421e80eed6b.png",
+    "static/media/I5.png": "/krafy/static/media/I5.2b236a5dff9cce22073b.png",
+    "static/media/I20.jpg": "/krafy/static/media/I20.3f08069a2dcad97e3d7f.jpg",
+    "index.html": "/krafy/index.html",
+    "main.2ef0466e.css.map": "/krafy/static/css/main.2ef0466e.css.map",
+    "main.92b07f8b.js.map": "/krafy/static/js/main.92b07f8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ef0466e.css",
+    "static/js/main.92b07f8b.js"
+  ]
+}
